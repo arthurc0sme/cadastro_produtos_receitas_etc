@@ -1,5 +1,0 @@
-
-Nome do Produto: Café Melita
-Descricao: Forte, 500g
-Quantidade: 50
-Valor da Unidade: R$14.99
